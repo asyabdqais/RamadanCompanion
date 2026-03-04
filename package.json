@@ -1,0 +1,13 @@
+{
+    "name": "ramadhan-project",
+    "private": true,
+    "engines": {
+        "node": ">=18.0.0"
+    },
+    "workspaces": [
+        "apps/*"
+    ],
+    "scripts": {
+        "dev": "npm run dev --workspace=web"
+    }
+}
