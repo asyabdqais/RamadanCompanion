@@ -39,7 +39,6 @@ export default function Tasbih() {
 
             <div className="flex justify-between items-start mb-8 relative z-10">
                 <h3 className="text-lg font-bold text-white">Tasbih Digital</h3>
-                <span className="text-gray-400 text-xs font-bold tracking-widest">SUBHANALLAH</span>
             </div>
 
             <div className="flex flex-col items-center justify-center mb-10 relative z-10">
